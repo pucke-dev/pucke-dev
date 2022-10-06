@@ -14,7 +14,7 @@
   :osso:     .--`     ``.:::-.`      `.`                 contact information                   
    `..`     `sss/                   .:::`                -----------------------                   
             .sss/                   -:::`                GitHub: pucke-uninow     
-            .ssso.`                `-:::`                Website: [https://philipp-ucke.netlify.app/](https://philipp-ucke.netlify.app/)                   
+            .ssso.`                `-:::`                Website: https://philipp-ucke.netlify.app/                   
             `ossooo+:-`       `.-:/:::::                 Projects                   
               .-/+ooooo+/-.-://////:-.`                  -----------------------                   
                   `-:+oooooo+//:-.`                      scraping                   
