@@ -32,12 +32,12 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pucke-uninow&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pucke-uninow&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pucke-uninow&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pucke-uninow&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pucke-uninow&theme=tokyonight&hide_border=true&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pucke-uninow&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pucke-uninow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pucke-uninow&theme=tokyonight&no-frame=true&no-bg=true&column=8)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pucke-uninow&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
