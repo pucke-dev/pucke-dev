@@ -32,9 +32,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pucke-uninow&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://github-readme-stats-self-hosted-two.vercel.app/api?username=pucke-uninow&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pucke-uninow&theme=tokyonight&hide_border=true&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pucke-uninow&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
+![](https://github-readme-stats-self-hosted-two.vercel.app/api/top-langs/?username=pucke-uninow&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pucke-uninow&theme=tokyonight&no-frame=true&no-bg=true&column=8)
